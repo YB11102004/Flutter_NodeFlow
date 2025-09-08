@@ -165,6 +165,6 @@ flutter run
 
 ## Author
 
-- Developed by: Your Name
-- Contact: your.email@example.com
+- Developed by: Bhimani Yatra
+- Contact: bhimaniyatra@gmail.com
 
