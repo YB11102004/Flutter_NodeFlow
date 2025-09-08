@@ -34,7 +34,7 @@ NodeFlow is a Flutter application for building, visualizing, and interacting wit
 ---
 
 ## Demo Video
-[Watch the demo video]([https://youtu.be/nTZ9VuQft1M])
+[Watch the demo video](https://youtu.be/nTZ9VuQft1M)
 
 ---
 
